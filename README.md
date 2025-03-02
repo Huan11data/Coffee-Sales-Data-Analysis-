@@ -12,13 +12,14 @@ Publicly available dataset sourced from Kaggle.com.
 ## Scope: 
 Transaction records including product categories, purchase timestamps, store locations, and customer demographics.
 
-## Data Preparation:
+## Data Preparation
 ## Cleaning: 
 Conducted data validation checks to identify and rectify duplicate entries, blank fields, and formatting inconsistencies.
 ## Enhancement: 
 Introduced calculated columns for granular analysis (e.g., time-of-day segmentation, weekday vs. weekend categorization).
 ## Analytical Approach:
 •	Utilized advanced pivot table techniques to aggregate sales data by product category, location, time, and customer demographics.
+
 •	Deployed dynamic Excel dashboards with interactive visualizations (e.g., heatmaps, bar charts) for stakeholder engagement.
 
 ## Coffee Sales Report Dashboard (Excel):
