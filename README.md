@@ -67,6 +67,9 @@ Operational Consistency: Maintain current location strategies, as all stores per
 ## Conclusion: 
 This analysis provides a data-driven foundation for strategic decision-making, emphasizing inventory prioritization, staffing alignment, and sustained customer service excellence to capitalize on observed growth trends.
 
+-<a href= "https://github.com/Huan11data/Coffee-Sales-Data-Analysis-/tree/main"> Coffee Sales Analysis</a>
+
+
 
 
 
