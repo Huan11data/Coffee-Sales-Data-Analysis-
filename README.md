@@ -36,6 +36,8 @@ o	Demographic purchase trends.
 
 -<a href= "https://github.com/Huan11data/Coffee-Sales-Data-Analysis-/blob/main/Coffee%20Sales%20Dashboard.png">DashBoard</a>
 
+![Coffee Sales Dashboard](https://github.com/user-attachments/assets/b3f98334-773b-4573-9370-dfe17406eb0c)
+
 ## Analysis & Insights
 ## Sales Performance:
    
@@ -67,7 +69,7 @@ Operational Consistency: Maintain current location strategies, as all stores per
 ## Conclusion: 
 This analysis provides a data-driven foundation for strategic decision-making, emphasizing inventory prioritization, staffing alignment, and sustained customer service excellence to capitalize on observed growth trends.
 
--<a href= "https://github.com/Huan11data/Coffee-Sales-Data-Analysis-/tree/main"> Coffee Sales Analysis</a>
+
 
 
 
